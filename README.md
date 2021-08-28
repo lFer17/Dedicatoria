@@ -1,0 +1,1 @@
+<!-- Este proyecto esta creado con la finalidad de ser  un generador de texto con motor en inteligencia artificial , con mucho cariño esta es la 1era versión, Saludos desde la base! -->
